@@ -1,0 +1,17 @@
+Datapacks are a fairly new thing, so you may not know how to install one. It's easy. Just follow my steps:
+1. Go to %appdata% and find the .minecraft folder. 
+2. Once you're in the .minecraft folder, go to saves.
+3. Select the world you want. 
+4. Make a new folder called datapacks in your world's folder. (if there isn't one in there already)
+5. Extract Simple Minecraft Changes and put the folder in the datapacks folder.
+6. Open up your world in Minecraft. 
+7. Do the command /datapack list. My datapack should be there.
+8. Then do /datapack enable "file/Simple Minecraft Changes" last.
+9. That should enable my datapack. If that doesn't work, you may change the name of my folder or check what you did wrong online.
+10. Enjoy!
+
+NOTE: THIS IS ONLY FOR MINECRAFT 1.13. THIS WILL NOT WORK ON ANY OTHER VERSION, BUT MAYBE SNAPSHOTS.
+
+
+
+								 -Blue Sheepify, Xbox gamertag: TheEpicGamer20
